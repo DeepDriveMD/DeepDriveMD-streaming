@@ -1,0 +1,62 @@
+1612199920.738 : radical.entk.task_processor : 7476  : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612199920.738 : radical.entk.task_processor : 7476  : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612199924.749 : radical.entk.task_processor : 7476  : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612199924.750 : radical.entk.task_processor : 7476  : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612200166.803 : radical.entk.task_processor : 11953 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612200166.803 : radical.entk.task_processor : 11953 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612201320.437 : radical.entk.task_processor : 11953 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612201320.437 : radical.entk.task_processor : 11953 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612210324.017 : radical.entk.task_processor : 51305 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612210324.017 : radical.entk.task_processor : 51305 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612210497.591 : radical.entk.task_processor : 51305 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612210497.591 : radical.entk.task_processor : 51305 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612210678.446 : radical.entk.task_processor : 57133 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612210678.446 : radical.entk.task_processor : 57133 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612210964.412 : radical.entk.task_processor : 57133 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612210964.412 : radical.entk.task_processor : 57133 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612211223.593 : radical.entk.task_processor : 74366 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612211223.594 : radical.entk.task_processor : 74366 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612211229.616 : radical.entk.task_processor : 74366 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612211229.616 : radical.entk.task_processor : 74366 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612211584.319 : radical.entk.task_processor : 88918 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612211584.319 : radical.entk.task_processor : 88918 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612212825.139 : radical.entk.task_processor : 109335 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612212825.139 : radical.entk.task_processor : 109335 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612213099.100 : radical.entk.task_processor : 109335 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612213099.100 : radical.entk.task_processor : 109335 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612213820.950 : radical.entk.task_processor : 4063  : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612213820.951 : radical.entk.task_processor : 4063  : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612214199.972 : radical.entk.task_processor : 20760 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612214199.973 : radical.entk.task_processor : 20760 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612214205.997 : radical.entk.task_processor : 20760 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612214205.998 : radical.entk.task_processor : 20760 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612214777.516 : radical.entk.task_processor : 29488 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612214777.517 : radical.entk.task_processor : 29488 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612215093.586 : radical.entk.task_processor : 29488 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612215093.587 : radical.entk.task_processor : 29488 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612215279.884 : radical.entk.task_processor : 38244 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612215279.885 : radical.entk.task_processor : 38244 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612215429.334 : radical.entk.task_processor : 38244 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612215429.334 : radical.entk.task_processor : 38244 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612215578.355 : radical.entk.task_processor : 42235 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612215578.356 : radical.entk.task_processor : 42235 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612215662.653 : radical.entk.task_processor : 42235 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612215662.654 : radical.entk.task_processor : 42235 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612469670.847 : radical.entk.task_processor : 101313 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612469670.848 : radical.entk.task_processor : 101313 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612469798.242 : radical.entk.task_processor : 101313 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612469798.243 : radical.entk.task_processor : 101313 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612469968.619 : radical.entk.task_processor : 110881 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612469968.620 : radical.entk.task_processor : 110881 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612470295.706 : radical.entk.task_processor : 110881 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612470295.707 : radical.entk.task_processor : 110881 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612470477.675 : radical.entk.task_processor : 3805  : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612470477.676 : radical.entk.task_processor : 3805  : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612470652.274 : radical.entk.task_processor : 3805  : 35185055953328 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612470652.275 : radical.entk.task_processor : 3805  : 35185055953328 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612472222.293 : radical.entk.task_processor : 74280 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612472222.293 : radical.entk.task_processor : 74280 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000
+1612472399.860 : radical.entk.task_processor : 74280 : 35184921735600 : DEBUG    : Create Task from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612472399.861 : radical.entk.task_processor : 74280 : 35184921735600 : DEBUG    : Task task.0000 created from CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline
+1612581532.906 : radical.entk.task_processor : 28014 : 35186456719792 : DEBUG    : Creating CU from Task task.0000
+1612581532.941 : radical.entk.task_processor : 28014 : 35186456719792 : DEBUG    : CU task.0000,MP_task,stage.0000,MP_stage,pipeline.0000,MP_pipeline created from Task task.0000

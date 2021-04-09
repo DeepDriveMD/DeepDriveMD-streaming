@@ -1,0 +1,24 @@
+#!/bin/bash	
+
+#BSUB -P csc299
+#BSUB -W 2:00
+#BSUB -nnodes 8
+#BSUB -J RMSD
+#BSUB -o RMSD_%J.out
+#BSUB -e RMSD_%J.err
+
+source $HOME/etc/openmm5.sh
+source deactivate
+
+cd /gpfs/alpine/scratch/iyakushin/csc299/Test3/entk_cvae_md_devel3/entk_cvae_md/analysis
+
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator0.bp 42 > 0.out 2>0.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator1.bp 42 > 1.out 2>1.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator2.bp 42 > 2.out 2>2.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator3.bp 42 > 3.out 2>3.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator4.bp 42 > 4.out 2>4.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator5.bp 42 > 5.out 2>5.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator6.bp 42 > 6.out 2>6.err &
+jsrun -n 1 -c 42 -g 6 -a 1 --bind rs ./pf.sh ../aggregate/aggregator7.bp 42 > 7.out 2>7.err &
+
+wait
