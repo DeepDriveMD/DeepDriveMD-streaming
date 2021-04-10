@@ -1,3 +1,5 @@
+# DeepDriveMD-S: Streaming version of DeepDriveMD
+
 * To set up the environment for Radical ENTK to run the program:
   ```
   source radical.sh
